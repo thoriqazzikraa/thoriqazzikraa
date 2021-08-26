@@ -11,6 +11,8 @@
 
 - 📝 I'm currently working on **[whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)**
 
+- 📩 Email me on **tazzikra@gmail.com**  
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
