@@ -38,6 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Urbaexyz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></p>
 
+### Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/Urbaexyz/whatsapp-bot/issues/14) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
