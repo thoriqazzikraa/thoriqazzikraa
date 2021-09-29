@@ -41,4 +41,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#14](https://github.com/Urbaexyz/whatsapp-bot/issues/14) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+2. 🗣 Commented on [#17](https://github.com/Urbaexyz/whatsapp-bot/issues/17) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+3. ❗️ Closed issue [#17](https://github.com/Urbaexyz/whatsapp-bot/issues/17) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+4. 🗣 Commented on [#14](https://github.com/Urbaexyz/whatsapp-bot/issues/14) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+5. 🗣 Commented on [#16](https://github.com/Urbaexyz/whatsapp-bot/issues/16) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+<!--END_SECTION:activity-->
 
