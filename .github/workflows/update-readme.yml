@@ -16,5 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Recent'
-          MAX_LINES: 10
+          COMMIT_MSG: 'update readme'
+          MAX_LINES: 5
