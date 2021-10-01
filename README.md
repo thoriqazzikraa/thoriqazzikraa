@@ -41,10 +41,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/IndonesianDev/whatsapp-bot/issues/19) in [IndonesianDev/whatsapp-bot](https://github.com/IndonesianDev/whatsapp-bot)
-2. 🗣 Commented on [#19](https://github.com/IndonesianDev/whatsapp-bot/issues/19) in [IndonesianDev/whatsapp-bot](https://github.com/IndonesianDev/whatsapp-bot)
-3. 💪 Opened PR [#20](https://github.com/IndonesianDev/whatsapp-bot/pull/20) in [IndonesianDev/whatsapp-bot](https://github.com/IndonesianDev/whatsapp-bot)
-4. 🗣 Commented on [#16](https://github.com/IndonesianDev/whatsapp-bot/issues/16) in [IndonesianDev/whatsapp-bot](https://github.com/IndonesianDev/whatsapp-bot)
+1. 🗣 Commented on [#315](https://github.com/SlavyanDesu/BocchiBot/issues/315) in [SlavyanDesu/BocchiBot](https://github.com/SlavyanDesu/BocchiBot)
+2. 🗣 Commented on [#19](https://github.com/dxxoo/HisokaBOT-Whatsapp-Bot/issues/19) in [dxxoo/HisokaBOT-Whatsapp-Bot](https://github.com/dxxoo/HisokaBOT-Whatsapp-Bot)
+3. 🗣 Commented on [#19](https://github.com/IndonesianDev/whatsapp-bot/issues/19) in [IndonesianDev/whatsapp-bot](https://github.com/IndonesianDev/whatsapp-bot)
+4. 🗣 Commented on [#19](https://github.com/IndonesianDev/whatsapp-bot/issues/19) in [IndonesianDev/whatsapp-bot](https://github.com/IndonesianDev/whatsapp-bot)
 5. 🗣 Commented on [#19](https://github.com/IndonesianDev/whatsapp-bot/issues/19) in [IndonesianDev/whatsapp-bot](https://github.com/IndonesianDev/whatsapp-bot)
 <!--END_SECTION:activity-->
 
