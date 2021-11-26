@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Urbaexyz/whatsapp-bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Urbaexyz&repo=whatsapp-bot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_owner=true&show_icons=true" /></p>
+  <a href="https://github.com/Urbaexyz/whatsapp-bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Urbaexyz&repo=whatsapp-bot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_owner=true&show_icons=true" /></a></p>
  
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Urbaexyz&bg_color=30,e96443,904e95&title_color=fff&count_private=true&include_all_commits=false&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></p>
