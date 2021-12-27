@@ -41,10 +41,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#44](https://github.com/Urbaexyz/whatsapp-bot/issues/44) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
-2. 🗣 Commented on [#44](https://github.com/Urbaexyz/whatsapp-bot/issues/44) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
-3. 🗣 Commented on [#30](https://github.com/Urbaexyz/whatsapp-bot/issues/30) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
-4. ❗️ Closed issue [#34](https://github.com/Urbaexyz/whatsapp-bot/issues/34) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
-5. ❗️ Closed issue [#31](https://github.com/Urbaexyz/whatsapp-bot/issues/31) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+1. 🗣 Commented on [#49](https://github.com/Urbaexyz/whatsapp-bot/issues/49) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+2. 🗣 Commented on [#49](https://github.com/Urbaexyz/whatsapp-bot/issues/49) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+3. ❗️ Closed issue [#44](https://github.com/Urbaexyz/whatsapp-bot/issues/44) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+4. 🗣 Commented on [#44](https://github.com/Urbaexyz/whatsapp-bot/issues/44) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+5. 🗣 Commented on [#30](https://github.com/Urbaexyz/whatsapp-bot/issues/30) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
 <!--END_SECTION:activity-->
 
