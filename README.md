@@ -41,10 +41,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#52](https://github.com/Urbaexyz/whatsapp-bot/issues/52) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
-2. ❗️ Closed issue [#54](https://github.com/Urbaexyz/whatsapp-bot/issues/54) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
-3. 🗣 Commented on [#54](https://github.com/Urbaexyz/whatsapp-bot/issues/54) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+1. 🗣 Commented on [#4](https://github.com/Urbaexyz/whatsapp-bot/issues/4) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+2. ❗️ Closed issue [#52](https://github.com/Urbaexyz/whatsapp-bot/issues/52) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+3. ❗️ Closed issue [#54](https://github.com/Urbaexyz/whatsapp-bot/issues/54) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
 4. 🗣 Commented on [#54](https://github.com/Urbaexyz/whatsapp-bot/issues/54) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
-5. 🗣 Commented on [#398](https://github.com/SlavyanDesu/BocchiBot/issues/398) in [SlavyanDesu/BocchiBot](https://github.com/SlavyanDesu/BocchiBot)
+5. 🗣 Commented on [#54](https://github.com/Urbaexyz/whatsapp-bot/issues/54) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
 <!--END_SECTION:activity-->
 
