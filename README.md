@@ -41,10 +41,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Gabrideiros/music-lyrics/issues/1) in [Gabrideiros/music-lyrics](https://github.com/Gabrideiros/music-lyrics)
-2. 🗣 Commented on [#1](https://github.com/Gabrideiros/music-lyrics/issues/1) in [Gabrideiros/music-lyrics](https://github.com/Gabrideiros/music-lyrics)
-3. 🎉 Merged PR [#96](https://github.com/Urbaexyz/whatsapp-bot/pull/96) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
-4. 🎉 Merged PR [#97](https://github.com/Urbaexyz/whatsapp-bot/pull/97) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
-5. ❗️ Closed issue [#91](https://github.com/Urbaexyz/whatsapp-bot/issues/91) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+1. ❌ Reopened PR [#100](https://github.com/Urbaexyz/whatsapp-bot/pull/100) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+2. ❗️ Closed issue [#1](https://github.com/Gabrideiros/music-lyrics/issues/1) in [Gabrideiros/music-lyrics](https://github.com/Gabrideiros/music-lyrics)
+3. 🗣 Commented on [#1](https://github.com/Gabrideiros/music-lyrics/issues/1) in [Gabrideiros/music-lyrics](https://github.com/Gabrideiros/music-lyrics)
+4. 🎉 Merged PR [#96](https://github.com/Urbaexyz/whatsapp-bot/pull/96) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+5. 🎉 Merged PR [#97](https://github.com/Urbaexyz/whatsapp-bot/pull/97) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
 <!--END_SECTION:activity-->
 
