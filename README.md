@@ -22,13 +22,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/thoriqazzikraa/whatsapp-bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=thoriqazzikraa&repo=whatsapp-bot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_owner=true&show_icons=true" /></a></p>
+  <a href="https://github.com/thoriqazzikraa/whatsapp-bot"><img src="https://github-readme-stats-one-alpha-39.vercel.app/api/pin?username=thoriqazzikraa&repo=whatsapp-bot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_owner=true&show_icons=true" /></a></p>
  
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=thoriqazzikraa&bg_color=30,e96443,904e95&title_color=fff&count_private=true&include_all_commits=false&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></p>
+  <img src="https://github-readme-stats-one-alpha-39.vercel.app/api?username=thoriqazzikraa&bg_color=30,e96443,904e95&title_color=fff&count_private=true&include_all_commits=false&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></p>
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thoriqazzikraa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></p>
+  <img src="https://github-readme-stats-one-alpha-39.vercel.app/api/top-langs?username=thoriqazzikraa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></p>
 
 ### Recent Activity
 
