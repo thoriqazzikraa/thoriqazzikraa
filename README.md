@@ -35,8 +35,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#102](https://github.com/thoriqazzikraa/whatsapp-bot/issues/102) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 2. 🗣 Commented on [#102](https://github.com/thoriqazzikraa/whatsapp-bot/issues/102) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
-3. ❗️ Opened issue [#102](https://github.com/thoriqazzikraa/whatsapp-bot/issues/102) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
-4. ❗️ Closed issue [#73](https://github.com/thoriqazzikraa/whatsapp-bot/issues/73) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
-5. ❌ Reopened PR [#100](https://github.com/Urbaexyz/whatsapp-bot/pull/100) in [Urbaexyz/whatsapp-bot](https://github.com/Urbaexyz/whatsapp-bot)
+3. 🗣 Commented on [#102](https://github.com/thoriqazzikraa/whatsapp-bot/issues/102) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+4. 🗣 Commented on [#102](https://github.com/thoriqazzikraa/whatsapp-bot/issues/102) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+5. 🗣 Commented on [#102](https://github.com/thoriqazzikraa/whatsapp-bot/issues/102) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 <!--END_SECTION:activity-->
 
