@@ -35,7 +35,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#104](https://github.com/thoriqazzikraa/whatsapp-bot/issues/104) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 2. 🗣 Commented on [#104](https://github.com/thoriqazzikraa/whatsapp-bot/issues/104) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
-3. 🗣 Commented on [#102](https://github.com/thoriqazzikraa/whatsapp-bot/issues/102) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+3. 🗣 Commented on [#104](https://github.com/thoriqazzikraa/whatsapp-bot/issues/104) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 4. 🗣 Commented on [#102](https://github.com/thoriqazzikraa/whatsapp-bot/issues/102) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 5. 🗣 Commented on [#102](https://github.com/thoriqazzikraa/whatsapp-bot/issues/102) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 <!--END_SECTION:activity-->
