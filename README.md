@@ -33,9 +33,9 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#123](https://github.com/CesiumLabs/canvacord/issues/123) in [CesiumLabs/canvacord](https://github.com/CesiumLabs/canvacord)
-2. ❗️ Closed issue [#104](https://github.com/thoriqazzikraa/whatsapp-bot/issues/104) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
-3. 🗣 Commented on [#104](https://github.com/thoriqazzikraa/whatsapp-bot/issues/104) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+1. 🗣 Commented on [#108](https://github.com/thoriqazzikraa/whatsapp-bot/issues/108) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+2. ❗️ Opened issue [#123](https://github.com/CesiumLabs/canvacord/issues/123) in [CesiumLabs/canvacord](https://github.com/CesiumLabs/canvacord)
+3. ❗️ Closed issue [#104](https://github.com/thoriqazzikraa/whatsapp-bot/issues/104) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 4. 🗣 Commented on [#104](https://github.com/thoriqazzikraa/whatsapp-bot/issues/104) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 5. 🗣 Commented on [#104](https://github.com/thoriqazzikraa/whatsapp-bot/issues/104) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 <!--END_SECTION:activity-->
