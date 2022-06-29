@@ -33,10 +33,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#115](https://github.com/thoriqazzikraa/whatsapp-bot/pull/115) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
-2. 🗣 Commented on [#109](https://github.com/thoriqazzikraa/whatsapp-bot/issues/109) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+1. 🎉 Merged PR [#117](https://github.com/thoriqazzikraa/whatsapp-bot/pull/117) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+2. 🎉 Merged PR [#115](https://github.com/thoriqazzikraa/whatsapp-bot/pull/115) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 3. 🗣 Commented on [#109](https://github.com/thoriqazzikraa/whatsapp-bot/issues/109) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 4. 🗣 Commented on [#109](https://github.com/thoriqazzikraa/whatsapp-bot/issues/109) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
-5. 🎉 Merged PR [#110](https://github.com/thoriqazzikraa/whatsapp-bot/pull/110) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+5. 🗣 Commented on [#109](https://github.com/thoriqazzikraa/whatsapp-bot/issues/109) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 <!--END_SECTION:activity-->
 
