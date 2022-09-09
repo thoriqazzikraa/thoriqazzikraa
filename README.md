@@ -3,7 +3,7 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/thoriqazzikraa" width="300" height="300"></p>
 
 <h3 align="left">Connect With Me :</h3>
-<a href="https://facebook.com/thoriqazzikra"><img src="https://img.icons8.com/color/48/000000/facebook.png"></a> <a href="https://instagram.com/thoriqazzikraa"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
+<a href="https://facebook.com/thoriqazzikra"><img src="https://img.icons8.com/color/48/000000/facebook.png"></a> <a href="https://instagram.com/nechlophomeria"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
 
 - 🌱 I’m currently learning **Nothing**.
 
