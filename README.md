@@ -34,9 +34,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11](https://github.com/hansputera/brainly-scraper-languages/issues/11) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
-2. 🗣 Commented on [#142](https://github.com/thoriqazzikraa/whatsapp-bot/issues/142) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+2. 🗣 Commented on [#11](https://github.com/hansputera/brainly-scraper-languages/issues/11) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
 3. 🗣 Commented on [#142](https://github.com/thoriqazzikraa/whatsapp-bot/issues/142) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 4. 🗣 Commented on [#142](https://github.com/thoriqazzikraa/whatsapp-bot/issues/142) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
-5. ❗️ Closed issue [#109](https://github.com/thoriqazzikraa/whatsapp-bot/issues/109) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+5. 🗣 Commented on [#142](https://github.com/thoriqazzikraa/whatsapp-bot/issues/142) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 <!--END_SECTION:activity-->
 
