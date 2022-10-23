@@ -33,10 +33,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/naseif/tiktok-scraper/issues/12) in [naseif/tiktok-scraper](https://github.com/naseif/tiktok-scraper)
-2. ❗️ Opened issue [#12](https://github.com/naseif/tiktok-scraper/issues/12) in [naseif/tiktok-scraper](https://github.com/naseif/tiktok-scraper)
-3. 🗣 Commented on [#11](https://github.com/hansputera/brainly-scraper-languages/issues/11) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
+1. 🗣 Commented on [#2909](https://github.com/open-wa/wa-automate-nodejs/issues/2909) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#12](https://github.com/naseif/tiktok-scraper/issues/12) in [naseif/tiktok-scraper](https://github.com/naseif/tiktok-scraper)
+3. ❗️ Opened issue [#12](https://github.com/naseif/tiktok-scraper/issues/12) in [naseif/tiktok-scraper](https://github.com/naseif/tiktok-scraper)
 4. 🗣 Commented on [#11](https://github.com/hansputera/brainly-scraper-languages/issues/11) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
-5. 🗣 Commented on [#142](https://github.com/thoriqazzikraa/whatsapp-bot/issues/142) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+5. 🗣 Commented on [#11](https://github.com/hansputera/brainly-scraper-languages/issues/11) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
 <!--END_SECTION:activity-->
 
