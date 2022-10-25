@@ -33,10 +33,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/Gimenz/insta-fetcher/issues/26) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
-2. ❗️ Opened issue [#26](https://github.com/Gimenz/insta-fetcher/issues/26) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
-3. 🗣 Commented on [#71](https://github.com/drawrowfly/instagram-scraper/issues/71) in [drawrowfly/instagram-scraper](https://github.com/drawrowfly/instagram-scraper)
-4. 🗣 Commented on [#2909](https://github.com/open-wa/wa-automate-nodejs/issues/2909) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#12](https://github.com/naseif/tiktok-scraper/issues/12) in [naseif/tiktok-scraper](https://github.com/naseif/tiktok-scraper)
+1. ❗️ Closed issue [#26](https://github.com/Gimenz/insta-fetcher/issues/26) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
+2. 🗣 Commented on [#26](https://github.com/Gimenz/insta-fetcher/issues/26) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
+3. 🗣 Commented on [#26](https://github.com/Gimenz/insta-fetcher/issues/26) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
+4. ❗️ Opened issue [#26](https://github.com/Gimenz/insta-fetcher/issues/26) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
+5. 🗣 Commented on [#71](https://github.com/drawrowfly/instagram-scraper/issues/71) in [drawrowfly/instagram-scraper](https://github.com/drawrowfly/instagram-scraper)
 <!--END_SECTION:activity-->
 
