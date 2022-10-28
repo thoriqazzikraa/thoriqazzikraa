@@ -33,10 +33,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/Gimenz/insta-fetcher/issues/26) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
+1. 🎉 Merged PR [#145](https://github.com/thoriqazzikraa/whatsapp-bot/pull/145) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 2. 🗣 Commented on [#26](https://github.com/Gimenz/insta-fetcher/issues/26) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
 3. 🗣 Commented on [#26](https://github.com/Gimenz/insta-fetcher/issues/26) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
 4. 🗣 Commented on [#26](https://github.com/Gimenz/insta-fetcher/issues/26) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
-5. 🗣 Commented on [#71](https://github.com/drawrowfly/instagram-scraper/issues/71) in [drawrowfly/instagram-scraper](https://github.com/drawrowfly/instagram-scraper)
+5. 🗣 Commented on [#26](https://github.com/Gimenz/insta-fetcher/issues/26) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
 <!--END_SECTION:activity-->
 
