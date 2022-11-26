@@ -33,10 +33,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#149](https://github.com/thoriqazzikraa/whatsapp-bot/issues/149) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
-2. 🗣 Commented on [#149](https://github.com/thoriqazzikraa/whatsapp-bot/issues/149) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
-3. 🗣 Commented on [#149](https://github.com/thoriqazzikraa/whatsapp-bot/issues/149) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
-4. 🗣 Commented on [#26](https://github.com/Gimenz/insta-fetcher/issues/26) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
-5. 💪 Opened PR [#27](https://github.com/Gimenz/insta-fetcher/pull/27) in [Gimenz/insta-fetcher](https://github.com/Gimenz/insta-fetcher)
+1. 🎉 Merged PR [#150](https://github.com/thoriqazzikraa/whatsapp-bot/pull/150) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+2. 🗣 Commented on [#150](https://github.com/thoriqazzikraa/whatsapp-bot/issues/150) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+3. ❗️ Closed issue [#149](https://github.com/thoriqazzikraa/whatsapp-bot/issues/149) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+4. 🗣 Commented on [#149](https://github.com/thoriqazzikraa/whatsapp-bot/issues/149) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+5. 🗣 Commented on [#149](https://github.com/thoriqazzikraa/whatsapp-bot/issues/149) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 <!--END_SECTION:activity-->
 
