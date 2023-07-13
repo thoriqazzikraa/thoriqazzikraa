@@ -33,10 +33,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#172](https://github.com/thoriqazzikraa/whatsapp-bot/issues/172) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
-2. ❗ Opened issue [#1](https://github.com/bapti-off/bapti-funkopop/issues/1) in [bapti-off/bapti-funkopop](https://github.com/bapti-off/bapti-funkopop)
-3. ❗ Opened issue [#1](https://github.com/Phantom8015/stable-diffusion-cjs/issues/1) in [Phantom8015/stable-diffusion-cjs](https://github.com/Phantom8015/stable-diffusion-cjs)
-4. 🗣 Commented on [#149](https://github.com/thoriqazzikraa/whatsapp-bot/issues/149) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+1. 🗣 Commented on [#1](https://github.com/Phantom8015/stable-diffusion-cjs/issues/1) in [Phantom8015/stable-diffusion-cjs](https://github.com/Phantom8015/stable-diffusion-cjs)
+2. ❗ Opened issue [#172](https://github.com/thoriqazzikraa/whatsapp-bot/issues/172) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+3. ❗ Opened issue [#1](https://github.com/bapti-off/bapti-funkopop/issues/1) in [bapti-off/bapti-funkopop](https://github.com/bapti-off/bapti-funkopop)
+4. ❗ Opened issue [#1](https://github.com/Phantom8015/stable-diffusion-cjs/issues/1) in [Phantom8015/stable-diffusion-cjs](https://github.com/Phantom8015/stable-diffusion-cjs)
 5. 🗣 Commented on [#149](https://github.com/thoriqazzikraa/whatsapp-bot/issues/149) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 <!--END_SECTION:activity-->
 
