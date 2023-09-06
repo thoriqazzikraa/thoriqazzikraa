@@ -8,8 +8,8 @@
 ```js
 // Life Motto
 if (sad() === true) {
-sad().stop()
-beAwesome()
+ sad().stop()
+ beAwesome()
 }
 ```
 
