@@ -5,14 +5,6 @@
 <h3 align="left">Social Media :</h3>
 <a href="https://facebook.com/thoriqazzikra"><img src="https://img.icons8.com/color/48/000000/facebook.png"></a> <a href="https://instagram.com/nechlophomeria"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
 
-```js
-// Life Motto
-if (sad() === true) {
- sad().stop()
- beAwesome()
-}
-```
-
 - I'm focusing on **JavaScript**.
 
 
