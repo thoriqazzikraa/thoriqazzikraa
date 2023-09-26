@@ -24,9 +24,9 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/deepjyoti30/ytmdl-web-v2/issues/30#issuecomment-1641804806) in [deepjyoti30/ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2)
-2. ❗ Opened issue [#75](https://github.com/deepjyoti30/ytmdl-web-v2/issues/75) in [deepjyoti30/ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2)
-3. 🗣 Commented on [#1](https://github.com/Phantom8015/stable-diffusion-cjs/issues/1#issuecomment-1633978680) in [Phantom8015/stable-diffusion-cjs](https://github.com/Phantom8015/stable-diffusion-cjs)
+1. ❗ Opened issue [#2](https://github.com/thoriqazzikraa/scrape-website/issues/2) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
+2. 🔒 Closed issue [#1](https://github.com/thoriqazzikraa/scrape-website/issues/1) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
+3. ❗ Opened issue [#1](https://github.com/thoriqazzikraa/scrape-website/issues/1) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
 4. ❗ Opened issue [#172](https://github.com/thoriqazzikraa/whatsapp-bot/issues/172) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
 5. ❗ Opened issue [#1](https://github.com/bapti-off/bapti-funkopop/issues/1) in [bapti-off/bapti-funkopop](https://github.com/bapti-off/bapti-funkopop)
 <!--END_SECTION:activity-->
