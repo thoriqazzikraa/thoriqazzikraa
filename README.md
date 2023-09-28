@@ -24,10 +24,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/thoriqazzikraa/scrape-website/issues/2) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
-2. 🔒 Closed issue [#1](https://github.com/thoriqazzikraa/scrape-website/issues/1) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
-3. ❗ Opened issue [#1](https://github.com/thoriqazzikraa/scrape-website/issues/1) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
-4. ❗ Opened issue [#172](https://github.com/thoriqazzikraa/whatsapp-bot/issues/172) in [thoriqazzikraa/whatsapp-bot](https://github.com/thoriqazzikraa/whatsapp-bot)
+1. 💪 Opened PR [#2](https://github.com/favolia/extra-api/pull/2) in [favolia/extra-api](https://github.com/favolia/extra-api)
+2. ❗ Opened issue [#2](https://github.com/thoriqazzikraa/scrape-website/issues/2) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
+3. 🔒 Closed issue [#1](https://github.com/thoriqazzikraa/scrape-website/issues/1) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
+4. ❗ Opened issue [#1](https://github.com/thoriqazzikraa/scrape-website/issues/1) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
 5. ❗ Opened issue [#1](https://github.com/bapti-off/bapti-funkopop/issues/1) in [bapti-off/bapti-funkopop](https://github.com/bapti-off/bapti-funkopop)
 <!--END_SECTION:activity-->
 
