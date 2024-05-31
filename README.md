@@ -24,10 +24,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/favolia/extra-api/pull/2) in [favolia/extra-api](https://github.com/favolia/extra-api)
-2. ❗ Opened issue [#2](https://github.com/thoriqazzikraa/scrape-website/issues/2) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
-3. 🔒 Closed issue [#1](https://github.com/thoriqazzikraa/scrape-website/issues/1) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
-4. ❗ Opened issue [#1](https://github.com/thoriqazzikraa/scrape-website/issues/1) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
-5. ❗ Opened issue [#1](https://github.com/bapti-off/bapti-funkopop/issues/1) in [bapti-off/bapti-funkopop](https://github.com/bapti-off/bapti-funkopop)
+1. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2141788344) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+2. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2141787083) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+3. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2141726667) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+4. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2141549438) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+5. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2141275216) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
 <!--END_SECTION:activity-->
 
