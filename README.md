@@ -24,10 +24,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2142765770) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-2. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2141788344) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-3. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2141787083) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-4. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2141726667) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-5. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2141549438) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+1. ❗ Opened issue [#1](https://github.com/rajesh-ezee/Pepper-Music/issues/1) in [rajesh-ezee/Pepper-Music](https://github.com/rajesh-ezee/Pepper-Music)
+2. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2142765770) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+3. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2141788344) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+4. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2141787083) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+5. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2141726667) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
 <!--END_SECTION:activity-->
 
