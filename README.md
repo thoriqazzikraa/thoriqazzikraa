@@ -24,10 +24,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/JIYOXC/AIUXMUSIC/issues/1#issuecomment-2148787191) in [JIYOXC/AIUXMUSIC](https://github.com/JIYOXC/AIUXMUSIC)
-2. 🗣 Commented on [#1](https://github.com/JIYOXC/AIUXMUSIC/issues/1#issuecomment-2148786552) in [JIYOXC/AIUXMUSIC](https://github.com/JIYOXC/AIUXMUSIC)
-3. 🗣 Commented on [#1](https://github.com/JIYOXC/AIUXMUSIC/issues/1#issuecomment-2148769483) in [JIYOXC/AIUXMUSIC](https://github.com/JIYOXC/AIUXMUSIC)
-4. ❗ Opened issue [#1](https://github.com/JIYOXC/AIUXMUSIC/issues/1) in [JIYOXC/AIUXMUSIC](https://github.com/JIYOXC/AIUXMUSIC)
-5. ❗ Opened issue [#1](https://github.com/rajesh-ezee/Pepper-Music/issues/1) in [rajesh-ezee/Pepper-Music](https://github.com/rajesh-ezee/Pepper-Music)
+1. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2155993469) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+2. 🗣 Commented on [#1](https://github.com/JIYOXC/AIUXMUSIC/issues/1#issuecomment-2148787191) in [JIYOXC/AIUXMUSIC](https://github.com/JIYOXC/AIUXMUSIC)
+3. 🗣 Commented on [#1](https://github.com/JIYOXC/AIUXMUSIC/issues/1#issuecomment-2148786552) in [JIYOXC/AIUXMUSIC](https://github.com/JIYOXC/AIUXMUSIC)
+4. 🗣 Commented on [#1](https://github.com/JIYOXC/AIUXMUSIC/issues/1#issuecomment-2148769483) in [JIYOXC/AIUXMUSIC](https://github.com/JIYOXC/AIUXMUSIC)
+5. ❗ Opened issue [#1](https://github.com/JIYOXC/AIUXMUSIC/issues/1) in [JIYOXC/AIUXMUSIC](https://github.com/JIYOXC/AIUXMUSIC)
 <!--END_SECTION:activity-->
 
