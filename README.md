@@ -24,10 +24,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-2. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2156327446) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-3. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2156093455) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-4. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2155993469) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-5. 🗣 Commented on [#1](https://github.com/JIYOXC/AIUXMUSIC/issues/1#issuecomment-2148787191) in [JIYOXC/AIUXMUSIC](https://github.com/JIYOXC/AIUXMUSIC)
+1. 🚀 Published release [v1.0.0](https://github.com/thoriqazzikraa/spotifydl/releases/tag/1.0.29) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+2. 🚀 Published release [1.0.0](https://github.com/thoriqazzikraa/spotifydl/releases/tag/v1.0.0) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+3. 🔒 Closed issue [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+4. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2156327446) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+5. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2156093455) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
 <!--END_SECTION:activity-->
 
