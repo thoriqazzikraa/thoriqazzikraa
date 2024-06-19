@@ -24,10 +24,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/thoriqazzikraa/scrape-website/issues/3#issuecomment-2177432778) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
-2. 🚀 Published release [v1.0.0](https://github.com/thoriqazzikraa/spotifydl/releases/tag/1.0.29) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-3. 🚀 Published release [1.0.0](https://github.com/thoriqazzikraa/spotifydl/releases/tag/v1.0.0) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-4. 🔒 Closed issue [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
-5. 🗣 Commented on [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2#issuecomment-2156327446) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+1. 🗣 Commented on [#3](https://github.com/thoriqazzikraa/scrape-website/issues/3#issuecomment-2178137502) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
+2. 🗣 Commented on [#3](https://github.com/thoriqazzikraa/scrape-website/issues/3#issuecomment-2177432778) in [thoriqazzikraa/scrape-website](https://github.com/thoriqazzikraa/scrape-website)
+3. 🚀 Published release [v1.0.0](https://github.com/thoriqazzikraa/spotifydl/releases/tag/1.0.29) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+4. 🚀 Published release [1.0.0](https://github.com/thoriqazzikraa/spotifydl/releases/tag/v1.0.0) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
+5. 🔒 Closed issue [#2](https://github.com/thoriqazzikraa/spotifydl/issues/2) in [thoriqazzikraa/spotifydl](https://github.com/thoriqazzikraa/spotifydl)
 <!--END_SECTION:activity-->
 
